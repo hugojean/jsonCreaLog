@@ -1,128 +1,127 @@
-[{
-  "ticketN": 526959255,
-  "shop": "Carrefour",
-  "date": "20/11/2019@15h17",
-  "place": "Caen",
-  "numeroCaisse": 14,
-  "items": [{
-    "isAlimentaire": true,
-    "name": "Steak Haché 5%",
-    "price": 4.1,
-    "quantity": 2
-  },
-    {
-      "isAlimentaire": false,
-      "name": "Sac poubelle 20L*10",
-      "price": 0.6,
-      "quantity": 2
-    },
-    {
-      "isAlimentaire": true,
-      "name": "Salvetat 6*1.5L",
-      "price": 3.35,
-      "quantity": 1
-    },
-    {
-      "isAlimentaire": false,
-      "name": "PS4",
-      "price": 299.99,
-      "quantity": 1
-    }
-  ]
+{
+	"response": [{
+		"ticketN": 526959255,
+		"shop": "Carrefour",
+		"date": "20/11/2019@15h17",
+		"place": "Caen",
+		"numeroCaisse": 14,
+		"items": [{
+				"isAlimentaire": true,
+				"name": "Steak Haché 5%",
+				"price": 4.1,
+				"quantity": 2
+			},
+			{
+				"isAlimentaire": false,
+				"name": "Sac poubelle 20L*10",
+				"price": 0.6,
+				"quantity": 2
+			},
+			{
+				"isAlimentaire": true,
+				"name": "Salvetat 6*1.5L",
+				"price": 3.35,
+				"quantity": 1
+			},
+			{
+				"isAlimentaire": false,
+				"name": "PS4",
+				"price": 299.99,
+				"quantity": 1
+			}
+		]
+	}, {
+		"ticketN": 526959255,
+		"shop": "Carrefour",
+		"date": "20/11/2019@15h17",
+		"place": "Caen",
+		"numeroCaisse": 14,
+		"items": [{
+				"isAlimentaire": true,
+				"name": "Steak Haché 5%",
+				"price": 4.1,
+				"quantity": 2
+			},
+			{
+				"isAlimentaire": false,
+				"name": "Sac poubelle 20L*10",
+				"price": 0.6,
+				"quantity": 2
+			},
+			{
+				"isAlimentaire": true,
+				"name": "Salvetat 6*1.5L",
+				"price": 3.35,
+				"quantity": 1
+			},
+			{
+				"isAlimentaire": false,
+				"name": "PS4",
+				"price": 299.99,
+				"quantity": 1
+			}
+		]
+	}, {
+		"ticketN": 526959255,
+		"shop": "Carrefour",
+		"date": "20/11/2019@15h17",
+		"place": "Caen",
+		"numeroCaisse": 14,
+		"items": [{
+				"isAlimentaire": true,
+				"name": "Steak Haché 5%",
+				"price": 4.1,
+				"quantity": 2
+			},
+			{
+				"isAlimentaire": false,
+				"name": "Sac poubelle 20L*10",
+				"price": 0.6,
+				"quantity": 2
+			},
+			{
+				"isAlimentaire": true,
+				"name": "Salvetat 6*1.5L",
+				"price": 3.35,
+				"quantity": 1
+			},
+			{
+				"isAlimentaire": false,
+				"name": "PS4",
+				"price": 299.99,
+				"quantity": 1
+			}
+		]
+	}, {
+		"ticketN": 526959255,
+		"shop": "Carrefour",
+		"date": "20/11/2019@15h17",
+		"place": "Caen",
+		"numeroCaisse": 14,
+		"items": [{
+				"isAlimentaire": true,
+				"name": "Steak Haché 5%",
+				"price": 4.1,
+				"quantity": 2
+			},
+			{
+				"isAlimentaire": false,
+				"name": "Sac poubelle 20L*10",
+				"price": 0.6,
+				"quantity": 2
+			},
+			{
+				"isAlimentaire": true,
+				"name": "Salvetat 6*1.5L",
+				"price": 3.35,
+				"quantity": 1
+			},
+			{
+				"isAlimentaire": false,
+				"name": "PS4",
+				"price": 299.99,
+				"quantity": 1
+			}
+		]
+	}]
 }
-,{
-  "ticketN": 526959255,
-  "shop": "Carrefour",
-  "date": "20/11/2019@15h17",
-  "place": "Caen",
-  "numeroCaisse": 14,
-  "items": [{
-    "isAlimentaire": true,
-    "name": "Steak Haché 5%",
-    "price": 4.1,
-    "quantity": 2
-  },
-    {
-      "isAlimentaire": false,
-      "name": "Sac poubelle 20L*10",
-      "price": 0.6,
-      "quantity": 2
-    },
-    {
-      "isAlimentaire": true,
-      "name": "Salvetat 6*1.5L",
-      "price": 3.35,
-      "quantity": 1
-    },
-    {
-      "isAlimentaire": false,
-      "name": "PS4",
-      "price": 299.99,
-      "quantity": 1
-    }
-  ]
-},{
-  "ticketN": 526959255,
-  "shop": "Carrefour",
-  "date": "20/11/2019@15h17",
-  "place": "Caen",
-  "numeroCaisse": 14,
-  "items": [{
-    "isAlimentaire": true,
-    "name": "Steak Haché 5%",
-    "price": 4.1,
-    "quantity": 2
-  },
-    {
-      "isAlimentaire": false,
-      "name": "Sac poubelle 20L*10",
-      "price": 0.6,
-      "quantity": 2
-    },
-    {
-      "isAlimentaire": true,
-      "name": "Salvetat 6*1.5L",
-      "price": 3.35,
-      "quantity": 1
-    },
-    {
-      "isAlimentaire": false,
-      "name": "PS4",
-      "price": 299.99,
-      "quantity": 1
-    }
-  ]
-}
-,{
-  "ticketN": 526959255,
-  "shop": "Carrefour",
-  "date": "20/11/2019@15h17",
-  "place": "Caen",
-  "numeroCaisse": 14,
-  "items": [{
-    "isAlimentaire": true,
-    "name": "Steak Haché 5%",
-    "price": 4.1,
-    "quantity": 2
-  },
-    {
-      "isAlimentaire": false,
-      "name": "Sac poubelle 20L*10",
-      "price": 0.6,
-      "quantity": 2
-    },
-    {
-      "isAlimentaire": true,
-      "name": "Salvetat 6*1.5L",
-      "price": 3.35,
-      "quantity": 1
-    },
-    {
-      "isAlimentaire": false,
-      "name": "PS4",
-      "price": 299.99,
-      "quantity": 1
-    }
-  ]
-}
-]
