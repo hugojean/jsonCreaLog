@@ -1,0 +1,32 @@
+{
+	"ticketN": 556562626,
+	"shop": "Auchan",
+	"date": "29/11/2019@15h17",
+	"place": "Caen",
+	"numeroCaisse": 144,
+	"items": [{
+			"isAlimentaire": true,
+			"name": "Steak Haché 5%",
+			"price": 4.1,
+			"quantity": 25
+		},
+		{
+			"isAlimentaire": false,
+			"name": "Sac poubelle 100L*10",
+			"price": 3.6,
+			"quantity": 2
+		},
+		{
+			"isAlimentaire": true,
+			"name": "Salvetat 6*1.5L",
+			"price": 3.35,
+			"quantity": 3
+		},
+		{
+			"isAlimentaire": false,
+			"name": "XBOX ONE",
+			"price": 199.99,
+			"quantity": 1
+		}
+	]
+}
