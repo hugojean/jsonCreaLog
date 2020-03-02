@@ -78,12 +78,6 @@
 				"name": "Salvetat 6*1.5L",
 				"price": 3.35,
 				"quantity": 1
-			},
-			{
-				"isAlimentaire": false,
-				"name": "PS4",
-				"price": 299.99,
-				"quantity": 1
 			}
 		]
 	}, {
@@ -108,12 +102,6 @@
 				"isAlimentaire": true,
 				"name": "Salvetat 6*1.5L",
 				"price": 3.35,
-				"quantity": 1
-			},
-			{
-				"isAlimentaire": false,
-				"name": "PS4",
-				"price": 299.99,
 				"quantity": 1
 			}
 		]
